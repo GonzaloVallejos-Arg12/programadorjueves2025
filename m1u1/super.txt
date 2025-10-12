@@ -1,2 +1,4 @@
 pan 
 galletitas 
+panqueques
+harina 
