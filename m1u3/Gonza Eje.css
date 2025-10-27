@@ -1,0 +1,27 @@
+h1{
+color: red;/*comentario css*/
+background-color: yellow; /*fondo*/
+text-align: center;
+}
+h2{
+    color: blue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+p{
+    color: green;
+    
+}
+.destacados{
+font-weight: bold;
+}
+#caja {
+    background-color: greenyellow;
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    margin: 100px;
+    border: 5px solid black;
+    box-sizing: border-box;
+    box-shadow: -14px 15px 19px 0px rgba(0,0,0,0.66);
+}
