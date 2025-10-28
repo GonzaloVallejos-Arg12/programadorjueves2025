@@ -1,0 +1,61 @@
+h1 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: yellow;
+    /*fondo*/
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: -9px 7px 7px rgba(0, 0, 0, 0.64);
+
+}
+
+h2 {
+    color: brown;
+    font-family: fantasy;
+    background-color: slategrey;
+
+}
+
+p {
+    font-size: 25px;
+    text-align: left;
+
+}
+
+li {
+    font-size: 20px;
+
+}
+
+.destacado {
+    font-weight: bold;
+    position: static;
+    top: 50px;
+    left: 50px;
+
+}
+
+.color {
+    font-family: monospace;
+    color: black;
+    background-color: aliceblue;
+}
+
+#caja {
+    position: relative;
+    left: 200px;
+    font-family: cursive;
+    width: 400px;
+    background: #ea7272;
+    height: 100px;
+    padding: 15px;
+    margin: 70px;
+    border: 5px groove #120d0d;
+    box-sizing: border-box;
+    box-shadow: 25px 9px 24px 0px rgba(0, 0, 0, 0.75);
+}
+
+.apu {
+    position: relative;
+    left: 300px;
+}
